@@ -8,7 +8,7 @@
 
 A serious game for promoting environmentally sustainable behaviors through empathy, embbeded in a web-app built to support it. 
 
-While the game itself was built with Unity, the web-app that supports it is based on a MEAN stack.
+While the game itself was built with Unity, the web-app itself is based on a MEAN stack.
 
 ## saveDforest repositories: 
 
