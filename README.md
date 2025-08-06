@@ -7,6 +7,7 @@
 
 
 saveDforest (v1) - a serious game embbeded in a web-app for promoting environmentally sustainable behaviors through empathy. 
+
 While the game itself was built with Unity, the web-app that supports it is based on a MEAN stack.
 
 ## saveDforest repositories: 
