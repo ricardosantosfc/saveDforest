@@ -18,4 +18,4 @@ While the game itself was built with Unity, the web-app itself is based on a MEA
   
 ## Documentation
 
-- [savedforest-documentation](https://ricardosantosfc.github.io/savedforest-documentation/savedforest_documentation.pdf) - Details the projects' structure and source code, along with prerequisite specifications, setup procedures, and instructions for local execution and deployment.
+- [saveDforest-documentation](https://ricardosantosfc.github.io/savedforest-documentation/savedforest_documentation.pdf) - Details the projects' structure and source code, along with prerequisite specifications, setup procedures, and instructions for local execution and deployment.
