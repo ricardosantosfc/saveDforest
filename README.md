@@ -12,9 +12,9 @@ While the game itself was built with Unity, the web-app itself is based on a MEA
 
 ## saveDforest repositories: 
 
-- [savedforest-frontend](https://github.com/ricardosantosfc/savedforest-frontend-public) - Frontend of the web-app
-- [savedforest-backend](https://github.com/ricardosantosfc/savedforest-backend-public) - Backend server of the web-app
-- savedforest-unity-game - Unity game project (coming soon...)
+- [saveDforest-frontend](https://github.com/ricardosantosfc/savedforest-frontend-public) - Frontend of the web-app
+- [saveDforest-backend](https://github.com/ricardosantosfc/savedforest-backend-public) - Backend server of the web-app
+- saveDforest-unity-game - Unity game project (coming soon...)
   
 ## Documentation
 
