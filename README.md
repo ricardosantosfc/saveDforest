@@ -13,7 +13,7 @@ While the game was built with Unity, the web-app is based on a MEAN stack.
 Developed in the context of my Master’s thesis.
 
 ## Promotional video
-[![pv]([https://img.youtube.com/vi/HN52uf6e_Y8.jpg)](https://www.youtube.com/watch?v=HN52uf6e_Y8)
+[![pv]([https://img.youtube.com/vi/HN52uf6e_Y8/0.jpg)](https://www.youtube.com/watch?v=HN52uf6e_Y8)
 
 ## saveDforest repositories 
 
