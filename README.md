@@ -8,15 +8,20 @@
 
 A serious game for promoting environmentally sustainable behaviors through empathy, embedded in a web-app that supports it. 
 
-While the game was built with Unity, the web-app is based on a MEAN stack.
-
+The game was built with Unity. The web-app itself is based on a MEAN stack:
+ - The front-end consists of an Angular single-page application that embeds the serious game in Unity WebGL format.
+ - The back-end consists of an Express.js application server running on top of Node.js, and data is stored on a MongoDB database.
+   
 Developed in the context of my Master’s thesis.
+
+## Overview
+
 
 
 ## saveDforest repositories 
 
-- [saveDforest-frontend](https://github.com/ricardosantosfc/savedforest-frontend-public) - Frontend Angular project 
-- [saveDforest-backend](https://github.com/ricardosantosfc/savedforest-backend-public) - Backend Node+Express server project 
+- [saveDforest-frontend](https://github.com/ricardosantosfc/savedforest-frontend-public) - Front-end Angular project 
+- [saveDforest-backend](https://github.com/ricardosantosfc/savedforest-backend-public) - Back-end Node+Express server project 
 - saveDforest-unity-game - Unity game project (coming soon...)
   
 ## Documentation
