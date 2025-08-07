@@ -12,9 +12,6 @@ While the game was built with Unity, the web-app is based on a MEAN stack.
 
 Developed in the context of my Master’s thesis.
 
-## Promotional video
-[![pv](https://img.youtube.com/vi/HN52uf6e_Y8/0.jpg)](https://www.youtube.com/watch?v=HN52uf6e_Y8)
-
 
 ## saveDforest repositories 
 
@@ -25,3 +22,7 @@ Developed in the context of my Master’s thesis.
 ## Documentation
 
 - [saveDforest-documentation](https://ricardosantosfc.github.io/saveDforest-documentation/savedforest_documentation.pdf) - Details the projects' structure and source code, along with prerequisite specifications, setup procedures, and instructions for local execution and deployment.
+
+
+## Promotional video
+[![pv](https://img.youtube.com/vi/HN52uf6e_Y8/0.jpg)](https://www.youtube.com/watch?v=HN52uf6e_Y8)
