@@ -12,8 +12,8 @@ While the game was built with Unity, the web-app is based on a MEAN stack.
 
 ## saveDforest repositories 
 
-- [saveDforest-frontend](https://github.com/ricardosantosfc/savedforest-frontend-public) - Frontend Angular project of the web-app
-- [saveDforest-backend](https://github.com/ricardosantosfc/savedforest-backend-public) - Backend Node+Express server project of the web-app
+- [saveDforest-frontend](https://github.com/ricardosantosfc/savedforest-frontend-public) - Frontend Angular project 
+- [saveDforest-backend](https://github.com/ricardosantosfc/savedforest-backend-public) - Backend Node+Express server project 
 - saveDforest-unity-game - Unity game project (coming soon...)
   
 ## Documentation
