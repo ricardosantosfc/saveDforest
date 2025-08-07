@@ -5,7 +5,8 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-#saveDforest
+# saveDforest
+
 A serious game for promoting environmentally sustainable behaviors through empathy, embedded in a web-app that supports it. 
 
 While the game was built with Unity, the web-app is based on a MEAN stack.
