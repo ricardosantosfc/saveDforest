@@ -25,4 +25,4 @@ Developed in the context of my Master’s thesis.
 
 
 ## Promotional video
-[<img src="https://img.youtube.com/vi/HN52uf6e_Y8/0.jpg" height="20%">](https://www.youtube.com/watch?v=HN52uf6e_Y8)
+[<img src="https://img.youtube.com/vi/HN52uf6e_Y8/0.jpg" width="40%">](https://www.youtube.com/watch?v=HN52uf6e_Y8)
