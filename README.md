@@ -12,7 +12,9 @@ While the game was built with Unity, the web-app is based on a MEAN stack.
 
 Developed in the context of my Master’s thesis.
 
-Promotional Video
+## Promotional video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HN52uf6e_Y8?si=AMpiABWorIsVwwZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## saveDforest repositories 
 
 - [saveDforest-frontend](https://github.com/ricardosantosfc/savedforest-frontend-public) - Frontend Angular project 
