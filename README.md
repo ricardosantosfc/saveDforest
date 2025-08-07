@@ -21,7 +21,7 @@ Developed in the context of my Master’s thesis.
 ## saveDforest repositories 
 
 - [saveDforest-frontend](https://github.com/ricardosantosfc/savedforest-frontend-public) - Front-end Angular project 
-- [saveDforest-backend](https://github.com/ricardosantosfc/savedforest-backend-public) - Back-end Node+Express server project 
+- [saveDforest-backend](https://github.com/ricardosantosfc/savedforest-backend-public) - Back-end Express server project 
 - saveDforest-unity-game - Unity game project (coming soon...)
   
 ## Documentation
