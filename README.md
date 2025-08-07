@@ -25,7 +25,7 @@ Developed in the context of my Master’s thesis.
 
 
 ## Promotional video
-[<a href="(https://www.youtube.com/watch?v=HN52uf6e_Y8)" target="_blank" rel="noopener noreferrer">
+<a href="(https://www.youtube.com/watch?v=HN52uf6e_Y8)" target="_blank" rel="noopener noreferrer">
   <img src="https://img.youtube.com/vi/HN52uf6e_Y8/0.jpg" width="40%">
-</a>]
+</a>
 [<img src="https://img.youtube.com/vi/HN52uf6e_Y8/0.jpg" width="40%">](https://www.youtube.com/watch?v=HN52uf6e_Y8)
