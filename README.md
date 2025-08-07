@@ -10,7 +10,7 @@ A serious game for promoting environmentally sustainable behaviors through empat
 
 While the game was developed with Unity, the web-app itself is based on a MEAN stack framework:
  - The front-end consists of an Angular single-page application that embeds the game in Unity WebGL format.
- - The back-end consists of an Express.js application server running on top of Node.js and a MongoDB database.
+ - The back-end consists of an Express.js application server running on top of Node.js, and a MongoDB database.
    
 Developed in the context of my Master’s thesis.
 
