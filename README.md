@@ -6,10 +6,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 
-Developed in the context of my Master’s thesis, saveDforest is a serious game for promoting environmentally sustainable behaviors through empathy, embedded in a web-app that supports it. 
+A serious game for promoting environmentally sustainable behaviors through empathy, embedded in a web-app that supports it. 
 
 While the game was built with Unity, the web-app is based on a MEAN stack.
 
+Developed in the context of my Master’s thesis.
 
 Promotional Video
 ## saveDforest repositories 
