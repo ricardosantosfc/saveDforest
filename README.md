@@ -14,9 +14,6 @@ While the game was developed with Unity, the web-app itself is based on a MEAN s
    
 Developed in the context of my Master’s thesis.
 
-## Overview
-
-
 
 ## saveDforest repositories 
 
