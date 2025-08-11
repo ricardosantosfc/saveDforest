@@ -14,17 +14,6 @@ While the game was developed with Unity, the web-app itself is based on a MEAN s
    
 Developed in the context of my Master’s thesis.
 
-## Overview
-
-“saveDforest” is a single-player serious game that aims to promote environmentally sustainable behaviors that benefit the Borneo rainforest. 
-To achieve this goal, the game relies on fostering empathy towards people and animals directly affected by Borneo’s deforestation, as empathy drives prosocial behaviors.
-The game contains scenarios, quizzes, a reward system consisting of points and badges, and self-report questionnaires to measure empathy and emotional response changes.
-
-![game_overview](./assets/game_overview.png)
-
-The web-app the game is supported by authenticates players, and stores and manages their progress along their answers to self-report questionnaires. 
-
-![game_overview](./assets/web_app_overview.png)
 
 ## saveDforest repositories 
 
