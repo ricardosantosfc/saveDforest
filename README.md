@@ -23,7 +23,7 @@ The game contains scenarios, quizzes, a reward system consisting of points and b
 
 The web-app the game is supported by authenticates players, and stores and manages their progress along their answers to self-report questionnaires. 
 
-![game_overview](./assets/web-app_overview.png)
+![game_overview](./assets/web_app_overview.png)
 
 ## saveDforest repositories 
 
