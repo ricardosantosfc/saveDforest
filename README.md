@@ -23,7 +23,7 @@ Developed in the context of my Master’s thesis.
   
 ## Documentation
 
-- [saveDforest-documentation](https://ricardosantosfc.github.io/saveDforest/savedforest_documentation.pdf) - Details the projects' structure and source code, along with prerequisite specifications, setup procedures, and instructions for local execution and deployment.
+- [saveDforest-documentation](https://ricardosantosfc.github.io/saveDforest/docs/savedforest_documentation.pdf) - Details the projects' structure and source code, along with prerequisite specifications, setup procedures, and instructions for local execution and deployment.
 
 
 ## Promotional video
