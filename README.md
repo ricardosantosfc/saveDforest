@@ -16,6 +16,13 @@ While the game was developed with Unity, the web-app itself is based on a MEAN s
  - The front-end consists of an **Angular** single-page application that embeds the game in Unity WebGL format.
  - The back-end consists of an **Express.js** application server running on top of **Node.js**, and a **MongoDB** database.
 
+
+> [!NOTE]
+> As the back-end server is hosted as a free [Render](https://render.com/) instance, it takes a bit for it to restart after being inactive. This can sometimes cause noticeable loading times, especially when logging in or signing up.
+> 
+> While you wait, you might want to check out that weird shaking tree on the screen...
+
+
 This project was originally developed in the context of my Master’s thesis. I have continued to refine it and expand its documentation since then.
 
 ## Overview
@@ -30,10 +37,7 @@ The game contains **scenarios**, **quizzes**, a reward system consisting of **po
 ![game-overview](./assets/game-overview.png)
 
 
-> [!NOTE]
-> As the back-end server is hosted as a free [Render](https://render.com/) instance, it takes some time for it to restart after being inactive. This can sometimes cause noticeable loading times, especially when logging in or signing up.
-> 
-> While you wait, you might want to check out that weird shaking tree on the screen...
+
 
 ## saveDforest repositories 
 
