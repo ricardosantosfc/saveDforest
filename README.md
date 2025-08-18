@@ -14,6 +14,8 @@ While the game was developed with Unity, the web-app itself is based on a MEAN s
 
 Developed in the context of my Master’s thesis.
 
+>⚠️ As the back-end is hosted on a free Render instance, it takes some time for it to "wake up" after being inactive for a while. This can cause noticeable loading times, especially when logging in or signing up.
+> While you wait, you might want to check out the weird shaking tree on the screen...
 
 ## saveDforest repositories 
 
