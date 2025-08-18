@@ -16,9 +16,7 @@ While the game was developed with Unity, the web-app itself is based on a MEAN s
  - The front-end consists of an **Angular** single-page application that embeds the game in Unity WebGL format.
  - The back-end consists of an **Express.js** application server running on top of **Node.js**, and a **MongoDB** database.
 
-This project was originally developed in the context of my Master’s thesis. 
-
-I have continued to refine it and expand its documentation since then.
+This project was originally developed in the context of my Master’s thesis. I have continued to refine it and expand its documentation since then.
 
 ## Overview
 
