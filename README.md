@@ -18,8 +18,7 @@ Developed in the context of my Master’s thesis.
 
 
 > [!NOTE]
-> As the back-end server is hosted as a free [Render](https://render.com/) instance, it takes some time for it to restart after being inactive. This can sometimes cause noticeable loading times, especially when logging in or signing up.
-> 
+> As the back-end server is hosted as a free [Render](https://render.com/) instance, it takes some time for it to restart after being inactive. This can sometimes cause noticeable loading times, especially when logging in or signing up. 
 > While you wait, you might want to check out the weird shaking tree on the screen...
 
 ## saveDforest repositories 
