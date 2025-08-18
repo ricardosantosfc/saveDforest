@@ -6,8 +6,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 
-A serious game for promoting environmentally sustainable behaviors through empathy, embedded in a web-app that supports it. 
-Its available [here](https://savedforest-temp-test-2.onrender.com/).
+A serious game for promoting environmentally sustainable behaviors through empathy, embedded in a web-app that supports it.
+
+It can be accessed [here](https://savedforest-temp-test-2.onrender.com/).
 
 While the game was developed with Unity, the web-app itself is based on a MEAN stack framework:
  - The front-end consists of an Angular single-page application that embeds the game in Unity WebGL format.
