@@ -27,7 +27,7 @@ This project was originally developed in the context of my Master’s thesis. I 
 
 ## Overview
 
-“saveDforest” is a browser-based, single-player serious game that aims to promote environmentally sustainable behaviors that benefit the Borneo rainforest. 
+“saveDforest” is a single-player serious game that aims to promote environmentally sustainable behaviors that benefit the Borneo rainforest. 
 
 To achieve this goal, the game relies on fostering empathy towards people and animals directly affected by Borneo’s deforestation, as empathy drives prosocial behaviors.
 
