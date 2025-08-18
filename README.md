@@ -26,6 +26,10 @@ To achieve this goal, the game relies on fostering empathy towards people and an
 
 The game contains scenarios, quizzes, a reward system consisting of points and badges, and self-report questionnaires - IRIs[^1], AESs[^2], and SAMs[^3] - to measure empathy and emotional response changes.
 
+
+![game-overview](./assets/game-overview.png)
+
+
 > [!NOTE]
 > As the back-end server is hosted as a free [Render](https://render.com/) instance, it takes some time for it to restart after being inactive. This can sometimes cause noticeable loading times, especially when logging in or signing up.
 > 
