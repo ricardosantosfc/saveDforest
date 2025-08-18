@@ -54,6 +54,6 @@ multidimensional approach. Journal of Personality and Social Psychology 44, 1 (J
 Anthrozoös 13, 4 (December 2000), 194–202.
 DOI:https://doi.org/10.2752/089279300786999699
 
-[^3] Margaret M. Bradley and Peter J. Lang. 1994. Measuring emotion: The self-assessment
+[^3]: Margaret M. Bradley and Peter J. Lang. 1994. Measuring emotion: The self-assessment
 manikin and the semantic differential. Journal of Behavior Therapy and Experimental
 Psychiatry 25, 1 (March 1994), 49–59. DOI:https://doi.org/10.1016/0005-7916(94)90063-9
