@@ -9,6 +9,8 @@
 A serious game for promoting environmentally sustainable behaviors through empathy, embedded in a web-app that supports it.
 
 
+It is available [here](https://savedforest-temp-test-2.onrender.com/).
+
 
 While the game was developed with Unity, the web-app itself is based on a MEAN stack framework:
  - The front-end consists of an Angular single-page application that embeds the game in Unity WebGL format.
@@ -16,9 +18,6 @@ While the game was developed with Unity, the web-app itself is based on a MEAN s
 
 Developed in the context of my Master’s thesis.
 
-
-## Access the web-app
-The web-app can be accessed [here](https://savedforest-temp-test-2.onrender.com/).
 
 > [!NOTE]
 > As the back-end server is hosted as a free [Render](https://render.com/) instance, it takes some time for it to restart after being inactive. This can sometimes cause noticeable loading times, especially when logging in or signing up.
