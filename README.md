@@ -17,7 +17,7 @@ While the game was developed with Unity, the web-app itself is based on a MEAN s
 Developed in the context of my Master’s thesis.
 
 
-## Try it out 
+## Access the web-app
 The web-app can be accessed [here](https://savedforest-temp-test-2.onrender.com/).
 
 > [!NOTE]
