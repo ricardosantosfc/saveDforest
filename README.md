@@ -16,8 +16,15 @@ While the game was developed with Unity, the web-app itself is based on a MEAN s
  - The front-end consists of an **Angular** single-page application that embeds the game in Unity WebGL format.
  - The back-end consists of an **Express.js** application server running on top of **Node.js**, and a **MongoDB** database.
 
-Developed in the context of my Master’s thesis.
+This project was originally developed in the context of my Master’s thesis, and I have continued to refine it and expand its documentation since then.
 
+## Overview
+
+“saveDforest” is a browser-based, single-player serious game that aims to promote environmentally sustainable behaviors that benefit the Borneo rainforest. 
+
+To achieve this goal, the game relies on fostering empathy towards people and animals directly affected by Borneo’s deforestation, as empathy drives prosocial behaviors.
+
+The game contains scenarios, quizzes, a reward system consisting of points and badges, and self-report questionnaires - IRIs[^1], AESs[^2], and SAMs[^3] - to measure empathy and emotional response changes.
 
 > [!NOTE]
 > As the back-end server is hosted as a free [Render](https://render.com/) instance, it takes some time for it to restart after being inactive. This can sometimes cause noticeable loading times, especially when logging in or signing up.
@@ -38,3 +45,7 @@ Developed in the context of my Master’s thesis.
 ## Promotional video
 
 [<img src="https://img.youtube.com/vi/HN52uf6e_Y8/0.jpg" width="40%">](https://www.youtube.com/watch?v=HN52uf6e_Y8)
+
+[^1]: Mark H. Davis. 1983. Measuring individual differences in empathy: Evidence for a
+multidimensional approach. Journal of Personality and Social Psychology 44, 1 (January 1983),
+113–126. DOI:https://doi.org/10.1037/0022-3514.44.1.113
