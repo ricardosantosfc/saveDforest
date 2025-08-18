@@ -49,3 +49,11 @@ The game contains scenarios, quizzes, a reward system consisting of points and b
 [^1]: Mark H. Davis. 1983. Measuring individual differences in empathy: Evidence for a
 multidimensional approach. Journal of Personality and Social Psychology 44, 1 (January 1983),
 113–126. DOI:https://doi.org/10.1037/0022-3514.44.1.113
+
+[^2]: Elizabeth S. Paul. 2000. Empathy with Animals and with Humans: Are They Linked?
+Anthrozoös 13, 4 (December 2000), 194–202.
+DOI:https://doi.org/10.2752/089279300786999699
+
+[^3] Margaret M. Bradley and Peter J. Lang. 1994. Measuring emotion: The self-assessment
+manikin and the semantic differential. Journal of Behavior Therapy and Experimental
+Psychiatry 25, 1 (March 1994), 49–59. DOI:https://doi.org/10.1016/0005-7916(94)90063-9
