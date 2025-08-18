@@ -18,7 +18,7 @@ While the game was developed with Unity, the web-app itself is based on a MEAN s
 
 
 > [!NOTE]
-> As the back-end server is hosted as a free [Render](https://render.com/) instance, it takes a bit for it to restart after being inactive. This can sometimes cause noticeable loading times, especially when logging in or signing up.
+> As the back-end server is currently hosted as a free [Render](https://render.com/) instance, it takes a bit for it to restart after being inactive. This can sometimes cause noticeable loading times, especially when logging in or signing up.
 > 
 > While you wait, you might want to check out that weird shaking tree on the screen...
 
