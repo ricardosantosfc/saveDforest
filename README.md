@@ -24,7 +24,7 @@ This project was originally developed in the context of my Master’s thesis. I 
 
 To achieve this goal, the game relies on fostering empathy towards people and animals directly affected by Borneo’s deforestation, as empathy drives prosocial behaviors.
 
-The game contains scenarios, quizzes, a reward system consisting of points and badges, and self-report questionnaires - IRIs[^1], AESs[^2], and SAMs[^3] - to measure empathy and emotional response changes.
+The game contains **scenarios**, **quizzes**, a reward system consisting of **points and badges**, and **self-report questionnaires** - IRIs[^1], AESs[^2], and SAMs[^3] - to measure empathy and emotional response changes.
 
 
 ![game-overview](./assets/game-overview.png)
