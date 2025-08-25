@@ -755,7 +755,8 @@ window.onload = function() {
     }
   },
   "customOptions": {
-    "withCredentials": true
+    "withCredentials": true,
+    "supportedSubmitMethods": []
   }
 };
   url = options.swaggerUrl || url
