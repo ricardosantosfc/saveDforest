@@ -21,7 +21,7 @@ The web-app can be accessed [here](https://savedforest-temp-test-2.onrender.com/
 
 
 > [!NOTE]
-> As the back-end server is currently hosted as a free [Render](https://render.com/) instance, it takes a bit for it to restart after being inactive, which can sometimes cause noticeable loading times, especially when logging in or signing up.
+> As the back-end server is currently hosted on a free [Render](https://render.com/) instance, it takes a bit for it to restart after being inactive, which can sometimes cause noticeable loading times, especially when logging in or signing up.
 > 
 > While you wait, you might want to check out that weird shaking tree on the screen...
 
