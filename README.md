@@ -48,6 +48,7 @@ The game contains **scenarios**, **quizzes**, a reward system consisting of **po
 ## Documentation
 
 - [saveDforest-documentation](https://ricardosantosfc.github.io/saveDforest/docs/savedforest_documentation.pdf) - Details the projects' structure and source code, along with prerequisite specifications, setup procedures, and instructions for local execution and deployment.
+- [saveDforest-API](https://ricardosantosfc.github.io/saveDforest/docs/swaggerUI) - The app's API defined using the OpenAPI specification and served through Swagger.
 
 
 ## Promotional video
