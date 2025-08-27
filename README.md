@@ -50,6 +50,11 @@ creating/reading/updating/deleting data from the MongoDB database, the following
 
 5. Upon receiving the response, the Angular app will call a specific method in the game, so it can proceed accordingly.
 
+
+![app-overview](./assets/app-overview1.png)
+
+
+
 ## saveDforest repositories 
 
 - [saveDforest-frontend](https://github.com/ricardosantosfc/savedforest-frontend-public) - Front-end Angular project
