@@ -37,7 +37,14 @@ The game contains **scenarios**, **quizzes**, a reward system consisting of **po
 ![game-overview](./assets/game-overview.png)
 
 
+Generally, whenever the player does an in-game action that involves
+creating/reading/updating/deleting data from the MongoDB database, the following occurs:
 
+1. The game calls a specific method in the Angular app;
+2. The Angular app sends an HTTP request to a corresponding API endpoint on the Express.js server;
+3. After validating the request, the Express server delegates an appropriate operation to the MongoDB database;
+4. Once the operation completes (whether successfully or not), the Express server sends an HTTP response back to the Angular app;
+5. Upon receiving the response, the Angular app will call a specific method in the game, so it can proceed accordingly.
 
 ## saveDforest repositories 
 
