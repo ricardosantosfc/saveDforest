@@ -57,7 +57,7 @@ creating/reading/updating/deleting data from the MongoDB database, the following
 
 ## saveDforest repositories 
 
-- [saveDforest-frontend](https://github.com/ricardosantosfc/savedforest-frontend-public) - Front-end Angular project
+- **[saveDforest-frontend](https://github.com/ricardosantosfc/savedforest-frontend-public)** - Front-end Angular project
   
 - [saveDforest-backend](https://github.com/ricardosantosfc/savedforest-backend-public) - Back-end Express server project
   
