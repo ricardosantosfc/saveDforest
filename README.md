@@ -59,15 +59,15 @@ creating/reading/updating/deleting data from the MongoDB database, the following
 
 - **[saveDforest-frontend](https://github.com/ricardosantosfc/savedforest-frontend-public)** - Front-end Angular project
   
-- [saveDforest-backend](https://github.com/ricardosantosfc/savedforest-backend-public) - Back-end Express server project
+- **[saveDforest-backend](https://github.com/ricardosantosfc/savedforest-backend-public)** - Back-end Express server project
   
 - saveDforest-unity-game - Unity game project (*coming soon...*)
   
 ## Documentation
 
-- [saveDforest-documentation](https://ricardosantosfc.github.io/saveDforest/docs/savedforest_documentation.pdf) - Details the projects' structure and source code, along with prerequisite specifications, setup procedures, and instructions for local execution and deployment.
+- **[saveDforest-documentation](https://ricardosantosfc.github.io/saveDforest/docs/savedforest_documentation.pdf)** - Details the projects' structure and source code, along with prerequisite specifications, setup procedures, and instructions for local execution and deployment.
   
-- [saveDforest-API](https://ricardosantosfc.github.io/saveDforest/docs/swaggerUI) - Details the app's RESTful API, described using OpenAPI specification and served through Swagger.
+- **[saveDforest-API](https://ricardosantosfc.github.io/saveDforest/docs/swaggerUI)** - Details the app's RESTful API, described using OpenAPI specification and served through Swagger.
 
 
 ## Promotional video
