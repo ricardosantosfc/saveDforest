@@ -61,7 +61,7 @@ creating/reading/updating/deleting data from the MongoDB database, the following
   
 - **[saveDforest-backend](https://github.com/ricardosantosfc/savedforest-backend-public)** - Back-end Express server project
   
-- saveDforest-unity-game - Unity game project (*coming soon...*)
+- **saveDforest-unity-game** - Unity game project (*coming soon...*)
   
 ## Documentation
 
