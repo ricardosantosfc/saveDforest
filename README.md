@@ -85,3 +85,5 @@ DOI:https://doi.org/10.2752/089279300786999699
 [^3]: Margaret M. Bradley and Peter J. Lang. 1994. Measuring emotion: The self-assessment
 manikin and the semantic differential. Journal of Behavior Therapy and Experimental
 Psychiatry 25, 1 (March 1994), 49–59. DOI:https://doi.org/10.1016/0005-7916(94)90063-9
+
+[^4]: test
