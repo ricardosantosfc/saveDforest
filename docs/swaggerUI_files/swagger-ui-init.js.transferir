@@ -593,10 +593,17 @@ window.onload = function() {
         },
         "IriAesRequest": {
           "type": "object",
+          "required": [
+            "scene",
+            "scoreIRI",
+            "scoreAES",
+            "questionsIRIjson",
+            "questionsAESjson"
+          ],
           "properties": {
             "scene": {
               "type": "number",
-              "description": "Numeric identifier for the game scenario these IRI and AES have been submitted; can be either 0 (submitted after signing up, before playing the 1st game scenario) or 10 (submitted after the 10th - and final - game scenario)",
+              "description": "Numeric identifier for the scene these IRI and AES have been submitted from; can be either 0 (submitted after signing up, before playing the 1st game scenario) or 10 (submitted after the 10th - and final - game scenario)",
               "example": 0
             },
             "scoreIRI": {
