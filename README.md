@@ -1,4 +1,7 @@
-![Logo](./assets/logo.png)
+<picture>
+  <img alt="saveDforest logo." src="./assets/logo.png">
+</picture> 
+
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
